@@ -1,0 +1,9 @@
+{
+    "browser": true,
+    "jquery": true,
+    "esversion": 11,
+    "node": true,
+    "globals": {
+        "UserPrefs": true
+    }
+}
