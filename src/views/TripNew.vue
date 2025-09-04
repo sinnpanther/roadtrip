@@ -22,9 +22,6 @@
             fluid
             showIcon
             iconDisplay="input"
-            :pt="{
-              panel: { style: 'max-width: 30px' } // largeur auto, avec un minimum
-            }"
         />
         <label for="start_date">Date de début</label>
       </FloatLabel>
@@ -41,9 +38,6 @@
             fluid
             showIcon
             iconDisplay="input"
-            :pt="{
-              panel: { class: 'w-auto min-w-[16rem]' } // largeur auto, avec un minimum
-            }"
         />
         <label for="end_date">Date de fin</label>
       </FloatLabel>
